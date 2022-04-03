@@ -5,7 +5,7 @@
 This repository is a project in progress of the union of six data science projects in various departments of a company (each project has its own documentation).
 
 The main objectives of this project are:
-- For the [**Human Resources** department](https://github.com/renankalfa/kalfs-company-datascience/tree/main/human_resources), forecasting whether an employee will leave the company;
+- For the [**Human Resources**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/human_resources) department, forecasting whether an employee will leave the company;
 - For the **Marketing** department, perform market segmentation;
 - For the **Sales** department, predict future sales;
 - For the **Medical** department, the diagnosis of respiratory diseases using images;
