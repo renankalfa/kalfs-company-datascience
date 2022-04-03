@@ -6,8 +6,56 @@ This repository is a project in progress of the union of six data science projec
 
 The main objectives of this project are:
 - For the [**Human Resources**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/human_resources) department, forecasting whether an employee will leave the company;
-- For the **Marketing** department, perform market segmentation;
-- For the **Sales** department, predict future sales;
-- For the **Medical** department, the diagnosis of respiratory diseases using images;
-- For the **Public Relations** department, sentiment mining in texts;
-- For the **Production and Maintenance** department, the classification of images of defective products.
+- For the [**Marketing**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/marketing) department, perform market segmentation;
+- For the [**Sales**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/sales) department, predict future sales;
+- For the [**Medical**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/medical) department, the diagnosis of respiratory diseases using images;
+- For the [**Public Relations**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/public_relations) department, sentiment mining in texts;
+- For the [**Production and Maintenance**](https://github.com/renankalfa/kalfs-company-datascience/tree/main/production_maintenance) department, the classification of images of defective products.
+
+# Data Science in Various Departments of a Company
+
+## Human Resources Department
+
+### 1. Business Problem
+
+### 2. Results
+
+#
+
+##  Marketing Department
+
+### 1. Business Problem
+
+### 2. Results
+
+#
+
+## Sales Department
+
+### 1. Business Problem
+
+### 2. Results
+
+#
+
+## Medical Department
+
+### 1. Business Problem
+
+### 2. Results
+
+#
+
+## Public Relations Department
+
+### 1. Business Problem
+
+### 2. Results
+
+#
+
+## Production and Maintenance Department
+
+### 1. Business Problem
+
+### 2. Results
