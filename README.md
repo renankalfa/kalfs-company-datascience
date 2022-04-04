@@ -16,7 +16,19 @@ The main objectives of this project are:
 
 ## Human Resources Department
 
+<img width="1796" alt="wallpapepr" src="https://user-images.githubusercontent.com/97196457/161465969-ba5e7049-a5a1-453f-83fc-4f36e1e8f350.png">
+
 ### 1. Business Problem
+
+Kalf's company wants to avoid hiring costs and the reasons will be mentioned below. I, as a data scientist, along with this department, aim to predict which employees are likely to leave the company.
+
+This forecast is important for the following reasons:
+- Hiring and retaining employees are extremely complex tasks that require capital, time and skills;
+- "The average company loses between 1% and 2.5% of its total revenue in the time it takes to train a new employee";
+- It costs an average of $7645 to hire a new employee (in a company with approximately 500 employees); 
+- There is still the money you need to invest in onboarding and training new employees. It takes about 52 days for an employee to actually occupy their new position;
+
+Source: [Toggl hire](https://toggl.com/blog/cost-of-hiring-an-employee)
 
 ### 2. Results
 
