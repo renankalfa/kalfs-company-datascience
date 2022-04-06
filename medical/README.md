@@ -5,9 +5,6 @@
 This repository is a project of the union of six data science projects in various departments of a company (each project has its own documentation).
 
 The main objectives of this project are:
-- For the **Human Resources** department, forecasting whether an employee will leave the company;
-- For the **Marketing** department, perform market segmentation;
-- For the **Sales** department, predict future sales;
-- For the **Medical** department, the diagnosis of respiratory diseases using images;
-- For the **Public Relations** department, sentiment mining in texts;
-- For the **Production and Maintenance** department, the classification of images of defective products.
+- For the **Medical** department, the diagnosis of respiratory diseases using images.
+
+# 1. Business Problem
